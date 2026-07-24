@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>이대 셔츠룸 추천 가이드</title>
+  <rect width="64" height="64" rx="15" fill="hsl(254 70% 39%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(352 68% 63%)" opacity="0.16"/>
+  <g transform="rotate(0 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(254 24% 96%)" stroke-width="8" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(352 68% 63%)"/></g>
+</svg>
