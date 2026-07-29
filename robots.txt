@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idae-shirts-note.roomlab-dangsan.xyz/sitemap.xml
